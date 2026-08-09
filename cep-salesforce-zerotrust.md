@@ -10,6 +10,8 @@
 
 ## 📖 Overview
 
+**⏱️ Estimated Setup Time:** 45-60 minutes
+
 This is a comprehensive guide to building a **Zero Trust** architecture from scratch. We will use **Chrome Enterprise Premium (CEP)** to lock down a **Salesforce** environment so that it can *only* be accessed from corporate-managed Chrome browsers. 
 
 We will cover the core concepts of SAML (Security Assertion Markup Language), how Identity Providers (like Google Workspace or Okta) interact with Service Providers (like Salesforce), and how to enforce device posture checks before a user is allowed to log in.
