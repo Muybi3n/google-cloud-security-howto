@@ -5,13 +5,12 @@
 
 [![Status: Published](https://img.shields.io/badge/Status-Published-success)](#)
 [![Stack: CEP | Salesforce | Okta](https://img.shields.io/badge/Stack-CEP%20%7C%20Salesforce%20%7C%20Okta-blue)](#)
-[![Level: Beginner](https://img.shields.io/badge/Level-Beginner-brightgreen)](#)
 
 </div>
 
 ## 📖 Overview
 
-This is a comprehensive, beginner-friendly guide to building a **Zero Trust** architecture from scratch. We will use **Chrome Enterprise Premium (CEP)** to lock down a **Salesforce** environment so that it can *only* be accessed from corporate-managed Chrome browsers. 
+This is a comprehensive guide to building a **Zero Trust** architecture from scratch. We will use **Chrome Enterprise Premium (CEP)** to lock down a **Salesforce** environment so that it can *only* be accessed from corporate-managed Chrome browsers. 
 
 We will cover the core concepts of SAML (Security Assertion Markup Language), how Identity Providers (like Google Workspace or Okta) interact with Service Providers (like Salesforce), and how to enforce device posture checks before a user is allowed to log in.
 
